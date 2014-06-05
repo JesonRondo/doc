@@ -1,6 +1,7 @@
 # IM JavaScript API
 
 `param`: 参数对象
+
 `callback`: 回调函数，回调参数为接口返回值
 
 ## 本地接口
@@ -12,6 +13,7 @@
 > 获取配置
 
 参数: null
+
 返回: 配置obj对象
 
 ### _getuserinfo
@@ -19,6 +21,7 @@
 > 获取登录用户信息
 
 参数: null
+
 返回: 用户信息
 
 ### _getuserlist
@@ -26,6 +29,7 @@
 > 获取用户列表
 
 参数: null
+
 返回: 用户列表
 
 ### _popMessageQueue
