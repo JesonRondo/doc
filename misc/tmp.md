@@ -217,9 +217,9 @@ Web-IM有着比较明显映射的数据模型，前有响应用户的富应用�
 
 能满足当时需求的解决方案就是好的解决方案，随着需求的变化，一层不变必定会带来巨大的维护成本，Web-IM的解决方案也将不断完善下去。
 
-原文地址:
-[Web-IM前端解决方案](http://vicbeta.com/code/2014/06/07/webim.html)
+原文地址: 
+[Web-IM前端解决方案](http://vicbeta.com/code/2014/06/07/webim.html) 
 
-相关文档：
-[IM JavaScript API](https://github.com/JesonRondo/doc/blob/master/mogu/im/sdk/api.md)
-[IM JavaScript SDK](https://github.com/JesonRondo/doc/blob/master/mogu/im/sdk/sdk.md)
+相关文档: 
+[IM JavaScript API](https://github.com/JesonRondo/doc/blob/master/mogu/im/sdk/api.md) 
+[IM JavaScript SDK](https://github.com/JesonRondo/doc/blob/master/mogu/im/sdk/sdk.md) 
